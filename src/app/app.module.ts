@@ -9,6 +9,8 @@ import { WhatToLearnComponent } from './what-to-learn/what-to-learn.component';
 import { GetStartedComponent } from './get-started/get-started.component';
 import { NavigationComponent } from './navigation/navigation.component';
 import { FooterComponent } from './footer/footer.component';
+import { IntroComponent } from './intro/intro.component';
+import { QuizComponent } from './quiz/quiz.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { FooterComponent } from './footer/footer.component';
     WhatToLearnComponent,
     GetStartedComponent,
     NavigationComponent,
-    FooterComponent
+    FooterComponent,
+    IntroComponent,
+    QuizComponent
   ],
   imports: [
     BrowserModule,
