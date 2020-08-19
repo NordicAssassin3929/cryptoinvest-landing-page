@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae9c9e34-d236-4518-934f-9c422f4b1315" name="Default Changelist" comment="changes and fixes">
+    <list default="true" id="ae9c9e34-d236-4518-934f-9c422f4b1315" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/intro/intro.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/intro/intro.component.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/landing/landing.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/landing/landing.component.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/list/list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/list/list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/navigation/navigation.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/navigation/navigation.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/navigation/navigation.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/navigation/navigation.component.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/quiz/quiz.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/quiz/quiz.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/quiz/quiz.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/quiz/quiz.component.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/what-to-learn/what-to-learn.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/what-to-learn/what-to-learn.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/what-to-learn/what-to-learn.component.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/what-to-learn/what-to-learn.component.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +116,8 @@
       <workItem from="1597503966121" duration="11830000" />
       <workItem from="1597597045970" duration="1100000" />
       <workItem from="1597682274717" duration="13430000" />
-      <workItem from="1597782020743" duration="2443000" />
+      <workItem from="1597782020743" duration="2791000" />
+      <workItem from="1597848936759" duration="4706000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1597076692201</created>
@@ -164,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597701585955</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="removed borders">
+      <created>1597785966898</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597785966898</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,19 +190,20 @@
     <MESSAGE value="making progress on design" />
     <MESSAGE value="added footer plus some minor changes" />
     <MESSAGE value="changes and fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes and fixes" />
+    <MESSAGE value="removed borders" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed borders" />
   </component>
   <component name="WindowStateProjectService">
     <state x="187" y="23" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597336486948">
       <screen x="0" y="23" width="1024" height="572" />
     </state>
     <state x="187" y="23" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1024.572@0.23.1024.572" timestamp="1597336486948" />
-    <state x="36" y="23" key="CommitChangelistDialog2" timestamp="1597785663289">
+    <state x="36" y="23" key="CommitChangelistDialog2" timestamp="1597785966236">
       <screen x="0" y="23" width="1024" height="574" />
     </state>
     <state x="36" y="23" key="CommitChangelistDialog2/0.23.1024.570@0.23.1024.570" timestamp="1597534303362" />
     <state x="36" y="23" key="CommitChangelistDialog2/0.23.1024.572@0.23.1024.572" timestamp="1597185454130" />
-    <state x="36" y="23" key="CommitChangelistDialog2/0.23.1024.574@0.23.1024.574" timestamp="1597785663289" />
+    <state x="36" y="23" key="CommitChangelistDialog2/0.23.1024.574@0.23.1024.574" timestamp="1597785966236" />
     <state width="969" height="94" key="GridCell.Tab.0.bottom" timestamp="1597340154888">
       <screen x="0" y="23" width="1024" height="572" />
     </state>
@@ -212,12 +224,12 @@
     </state>
     <state width="969" height="94" key="GridCell.Tab.0.right/0.23.1024.567@0.23.1024.567" timestamp="1597331198177" />
     <state width="969" height="94" key="GridCell.Tab.0.right/0.23.1024.572@0.23.1024.572" timestamp="1597340154888" />
-    <state x="12" y="23" key="Vcs.Push.Dialog.v2" timestamp="1597701587323">
+    <state x="12" y="23" key="Vcs.Push.Dialog.v2" timestamp="1597785968904">
       <screen x="0" y="23" width="1024" height="574" />
     </state>
     <state x="12" y="23" key="Vcs.Push.Dialog.v2/0.23.1024.570@0.23.1024.570" timestamp="1597534305776" />
     <state x="12" y="23" key="Vcs.Push.Dialog.v2/0.23.1024.572@0.23.1024.572" timestamp="1597185456552" />
-    <state x="12" y="23" key="Vcs.Push.Dialog.v2/0.23.1024.574@0.23.1024.574" timestamp="1597701587323" />
+    <state x="12" y="23" key="Vcs.Push.Dialog.v2/0.23.1024.574@0.23.1024.574" timestamp="1597785968904" />
     <state width="750" height="540" key="javadoc.popup" timestamp="1597683143557">
       <screen x="0" y="23" width="1024" height="574" />
     </state>
